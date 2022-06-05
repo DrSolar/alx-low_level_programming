@@ -2,19 +2,15 @@
 
 #include <time.h>
 
-
-
-/* more headers goes there */
-
 #include <stdio.h>
 
 
 
 /**
  *
- *  * main - assigns random number to n
+ *  * main -> assigns random number to n
  *
- *   *
+ *   * condition
  *
  *    * Return: Always 0 (Success)
  *
