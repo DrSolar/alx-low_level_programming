@@ -7,17 +7,10 @@
 
 
 /**
- *
  *  * main -> assigns random number to n
- *
  *   * condition
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
-
-
+ *    * Return: Always 0 (Success)     
+ */
 int main(void)
 
 {
