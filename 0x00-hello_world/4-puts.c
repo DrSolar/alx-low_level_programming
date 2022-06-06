@@ -6,9 +6,9 @@
  *
  *  * main -> Entry point
  *
- *   * Description: prints "\"Programming is like building a multilingual pzle"
+ *   * Description: prints 
  *
- *    * Return: 0
+ *    * Return: Always 0  (Success)
  *
 **/
 
