@@ -17,26 +17,17 @@ int main(void)
 			while (a <= 'z')
 
 					{
-
-								putchar(a);
-
-										a++;
+						putchar(a);
+						a++;
 
 											}
-
-
-
-				a = 'A';
+			a = 'A';
 
 					while (a <= 'Z')
 
 							{
-
-
-
-										putchar(a);
-
-												a++;
+								putchar(a);
+								a++;
 
 													}
 
