@@ -4,11 +4,11 @@
  *
  *  * main - prints the size of various types
  *
- *   *
+ *   * Description - lol
  *
  *    * Return: Always 0 (success)
  *
- *     */
+ **/
 
 int main(void) /*uses puts() and returns 0*/
 
