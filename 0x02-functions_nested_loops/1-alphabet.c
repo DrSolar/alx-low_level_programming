@@ -11,18 +11,16 @@
  *     * Return: void
  *
  **/
-int main(void)
+void print_alphabet(void)
 {
+	char c = 'a';
 	
-	print_alphabet();
-			    
-			    return (0);
-}
-{
-	char c;
-	
-	for (c = 'a'; c <= 'z'; c++)
+	while (c <= 'z')
+	{
 		_putchar(c);
+		c++;
+	}
+
 	_putchar('\n');
 }
 
