@@ -19,8 +19,8 @@ void print_rev(char *s)
 
 
 
-			while (s[i++]
-					len++;
+			while (s[i++])
+				len++;
 
 
 
